@@ -17,7 +17,7 @@ const sans = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://verinno-furniture.vercel.app"),
+  metadataBase: new URL("https://verinno-furniture.devya-solutions.com"),
   title: {
     default: "Verinno Furniture — Timeless Home, Hotel & Office Interiors | Egypt",
     template: "%s · Verinno Furniture",

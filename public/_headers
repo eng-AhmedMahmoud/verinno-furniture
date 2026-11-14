@@ -1,0 +1,6 @@
+# Cloudflare Pages response headers. The static export writes the generated
+# icons without a file extension, so Pages can't infer their type.
+/opengraph-image
+  Content-Type: image/png
+/apple-icon
+  Content-Type: image/png
